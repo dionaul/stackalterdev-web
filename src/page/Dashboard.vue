@@ -1,6 +1,11 @@
 <template>
   <div class="dashboard">
-    dashboard
+    <div id="header">
+      <div class="wrapper">
+        <div class="logo">logo</div>
+        <div class="navigation">navigation</div>
+      </div>
+    </div>
   </div>
 </template>
 
